@@ -42,7 +42,7 @@ This is a **Drag Race game built in Unity**. It features fast-paced racing with 
 1. Make sure you have **Unity Hub** and **Unity version 2021.3 or later** installed.
 2. Clone or download this repository:
 ```bash
-git clone https://github.com/<your-username>/Unity-Dragrace-game.git
+git clone https://github.com/Hanafy10/Unity-Dragrace-game.git
 ```
 3. Open Unity Hub and add the project.
 4. Open the project in Unity Editor.
