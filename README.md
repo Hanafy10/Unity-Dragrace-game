@@ -119,12 +119,5 @@ git clone https://github.com/Hanafy10/Unity-Dragrace-game.git
 **Ali Mohamed Reda**  
 - GitHub: https://github.com/zcarbona  
 
-> This project was developed as a collaborative university project.
 
 
----
-
-## License
-This project is open for collaboration and sharing. Please credit the author when using or modifying the project.
-
->>>>>>> 7590b43 (Save local changes before rebasing with upstream)
