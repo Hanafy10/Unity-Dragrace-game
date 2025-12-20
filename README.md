@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏎️ Unity Drag Race Game – Ice Cream Drag Race
 
 Ice Cream Drag Race is a 2D drag-racing university project developed using Unity Engine and C#.
@@ -111,9 +111,16 @@ git clone https://github.com/<your-username>/Unity-Dragrace-game.git
 
 ---
 
-## Author
-**Ali Mohamed Reda**
-- GitHub: [https://github.com/zcarbona](https://github.com/zcarbona)
+## Authors
+
+**Mohamed Hanafy**  
+- GitHub: https://github.com/Hanafy10  
+
+**Ali Mohamed Reda**  
+- GitHub: https://github.com/zcarbona  
+
+> This project was developed as a collaborative university project.
+
 
 ---
 
