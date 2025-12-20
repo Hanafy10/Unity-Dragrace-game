@@ -20,7 +20,7 @@ This project demonstrates practical skills in :-
 - Game state management
 
 - Winner detection logic
-=======
+
 # Unity Drag Race Game - README
 
 ## Overview
